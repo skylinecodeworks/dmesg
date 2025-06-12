@@ -107,14 +107,6 @@ sudo python main.py
 
 ---
 
-## Créditos y agradecimientos
-
-* [Resemble AI - Chatterbox TTS](https://github.com/resemble-ai/chatterbox)
-* [Ollama](https://ollama.com/)
-* Proyecto inspirado por la idea de llevar observabilidad y DX de sistemas al siguiente nivel… ¡que el kernel te lo explique a viva voz!
-
----
-
 ## Licencia
 
 MIT (igual que Chatterbox)
