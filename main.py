@@ -55,7 +55,6 @@ def productor(q, stop_event):
             line = process.stdout.readline()
             if not line:
                 break
-            # print(f"[DMESG] {line.strip()}")  # Mostrar absolutamente todo
             if line_has_error(line):
                 q.put(line.strip())
     except Exception as e:
